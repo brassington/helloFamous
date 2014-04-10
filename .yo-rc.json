@@ -1,0 +1,11 @@
+{
+  "generator-famous": {
+    "projectName": "hellofamous",
+    "projectDesc": "Seed project to get started with Famo.us",
+    "authorLogin": "",
+    "author": {
+      "name": "John Hurliman",
+      "email": "jhurliman@jhurliman.org"
+    }
+  }
+}
