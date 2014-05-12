@@ -1,5 +1,5 @@
 #hellofamous                                                                                                               
-> Seed project to get started with Famo.us.
+> Seed project to get started with Famo.us created by Grunt.
 
 ##Dependencies
 It is actually quite simple really
